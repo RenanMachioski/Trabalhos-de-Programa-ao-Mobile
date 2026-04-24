@@ -1,2 +1,5 @@
 # Trabalhos-de-Programa-ao-Mobile
-segundo bimestre de prog mobile
+INTEGRANTES:
+  Gabriel Augusto Cumin
+  Joao Marcus Bizinelli
+  Renan Machioski Custodio
